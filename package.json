@@ -1,0 +1,22 @@
+{
+  "name": "recycling-db",
+  "version": "0.1.0",
+  "description": "Managing package for recycling-db",
+  "main": "index.js",
+  "repository": "https://github.com/artursvonda/recycling-db",
+  "author": "Arturs Vonda <recycling-db@artursvonda.lv>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "prettier": "^2.0.4",
+    "ts-node": "^8.8.2",
+    "typescript": "~3.8.3"
+  },
+  "scripts": {
+    "build-js": "yarn --cwd libs/js build",
+    "build-all": "yarn build-js",
+    "generate": "ts-node cli/generate-svgs.ts",
+    "lint": "prettier --write cli/*.ts classifiers.json"
+  }
+}

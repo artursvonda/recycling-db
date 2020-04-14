@@ -1,0 +1,450 @@
+[
+  {
+    "code": "01",
+    "short": "PET",
+    "alternatives": ["PETE"],
+    "description": "Polyethylene terephthalate",
+    "examples": "Polyester fibers, soft drink bottles, food containers",
+    "category": "Plastics"
+  },
+  {
+    "code": "02",
+    "short": "PE-HD",
+    "alternatives": ["PEHD", "HDPE"],
+    "description": "High-density polyethylene",
+    "examples": "Plastic milk containers, plastic bags, bottle caps, trash cans, oil cans, plastic lumber, toolboxes, supplement containers",
+    "category": "Plastics"
+  },
+  {
+    "code": "03",
+    "short": "PVC",
+    "alternatives": [],
+    "description": "Polyvinyl chloride",
+    "examples": "Window frames, bottles for chemicals, flooring, plumbing pipes",
+    "category": "Plastics"
+  },
+  {
+    "code": "04",
+    "short": "PE-LD",
+    "alternatives": ["PELD", "LDPE"],
+    "description": "Low-density polyethylene",
+    "examples": "Plastic bags, Ziploc bags, buckets, squeeze bottles, plastic tubes, chopping boards",
+    "category": "Plastics"
+  },
+  {
+    "code": "05",
+    "short": "PP",
+    "alternatives": [],
+    "description": "Polypropylene",
+    "examples": "Flower pots, bumpers, car interior trim, industrial fibers, carry-out beverage cups, microwavable food containers, DVD keep cases",
+    "category": "Plastics"
+  },
+  {
+    "code": "06",
+    "short": "PS",
+    "alternatives": [],
+    "description": "Polystyrene",
+    "examples": "Toys, video cassettes, ashtrays, trunks, beverage/food coolers, beer cups, wine and champagne cups, carry-out food containers, Styrofoam",
+    "category": "Plastics"
+  },
+  {
+    "code": "07",
+    "short": "O",
+    "alternatives": ["OTHER"],
+    "description": "All other plastics",
+    "examples": "Polycarbonate (PC), polyamide (PA), styrene acrylonitrile (SAN), acrylic plastics/polyacrylonitrile (PAN), bioplastics",
+    "category": "Plastics"
+  },
+  {
+    "code": "ABS",
+    "short": "",
+    "alternatives": ["ABS"],
+    "description": "Acrylonitrile butadiene styrene",
+    "examples": "Monitor/TV cases, coffee makers, cell phones, calculators, most computer plastic, Lego bricks, most FFF 3D printed parts that are not bioplastic such as PLA",
+    "category": "Plastics"
+  },
+  {
+    "code": "PA",
+    "short": "",
+    "alternatives": ["PA"],
+    "description": "Polyamide",
+    "examples": "Nylon like toothbrush bristles, socks, stockings, ect",
+    "category": "Plastics"
+  },
+  {
+    "code": "08",
+    "short": "",
+    "alternatives": ["LEAD"],
+    "description": "Lead–acid battery",
+    "examples": "Car batteries",
+    "category": "Batteries"
+  },
+  {
+    "code": "09",
+    "short": "",
+    "alternatives": ["Alkaline"],
+    "description": "Alkaline battery",
+    "examples": "TV Remote batteries, flashlight batteries",
+    "category": "Batteries"
+  },
+  {
+    "code": "10",
+    "short": "",
+    "alternatives": ["NiCD"],
+    "description": "Nickel–cadmium battery",
+    "examples": "Older batteries",
+    "category": "Batteries"
+  },
+  {
+    "code": "11",
+    "short": "",
+    "alternatives": ["NiMH"],
+    "description": "Nickel–metal hydride battery",
+    "examples": "",
+    "category": "Batteries"
+  },
+  {
+    "code": "12",
+    "short": "",
+    "alternatives": ["Li"],
+    "description": "Lithium battery",
+    "examples": "Cell phone batteries, computer batteries, camera batteries",
+    "category": "Batteries"
+  },
+  {
+    "code": "13",
+    "short": "",
+    "alternatives": ["SO", "SOZ"],
+    "description": "Silver-oxide battery",
+    "examples": "",
+    "category": "Batteries"
+  },
+  {
+    "code": "14",
+    "short": "",
+    "alternatives": ["CZ"],
+    "description": "Zinc–carbon battery",
+    "examples": "Flashlight batteries",
+    "category": "Batteries"
+  },
+  {
+    "code": "20",
+    "short": "PAP",
+    "alternatives": [],
+    "description": "Corrugated fiberboard (cardboard)",
+    "examples": "Cardboard boxes",
+    "category": "Paper"
+  },
+  {
+    "code": "21",
+    "short": "PAP",
+    "alternatives": [],
+    "description": "Non-corrugated fiberboard (paperboard)",
+    "examples": "Cereal and snack boxes",
+    "category": "Paper"
+  },
+  {
+    "code": "22",
+    "short": "PAP",
+    "alternatives": [],
+    "description": "Paper",
+    "examples": "Newspaper, books, magazines, wrapping paper, wallpaper, paper bags, paper straws",
+    "category": "Paper"
+  },
+  {
+    "code": "40",
+    "short": "FE",
+    "alternatives": [],
+    "description": "Steel",
+    "examples": "Food cans",
+    "category": "Metals"
+  },
+  {
+    "code": "41",
+    "short": "ALU",
+    "alternatives": [],
+    "description": "Aluminium",
+    "examples": "Soft drink cans, deodorant cans, disposable food containers, aluminium foil, heat sinks",
+    "category": "Metals"
+  },
+  {
+    "code": "50",
+    "short": "FOR",
+    "alternatives": [],
+    "description": "Wood",
+    "examples": "Furniture, chopping boards, brooms, pencils, cocktail sticks, wooden spoons",
+    "category": "Organic"
+  },
+  {
+    "code": "51",
+    "short": "FOR",
+    "alternatives": [],
+    "description": "Cork",
+    "examples": "Bottle stoppers, place mats, construction material",
+    "category": "Organic"
+  },
+  {
+    "code": "60",
+    "short": "TEX",
+    "alternatives": ["COT"],
+    "description": "Cotton",
+    "examples": "Towels, t-shirts, cotton buds/swabs, cotton pads",
+    "category": "Organic"
+  },
+  {
+    "code": "61",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Jute",
+    "examples": "Clothing",
+    "category": "Organic"
+  },
+  {
+    "code": "62",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "63",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "64",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "65",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "66",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "67",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "68",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "69",
+    "short": "TEX",
+    "alternatives": [],
+    "description": "Other Textiles",
+    "examples": "ex",
+    "category": "Organic"
+  },
+  {
+    "code": "70",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Clear Glass",
+    "examples": "Jars",
+    "category": "Glass"
+  },
+  {
+    "code": "71",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Green Glass",
+    "examples": "Wine glass",
+    "category": "Glass"
+  },
+  {
+    "code": "72",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Brown Glass",
+    "examples": "",
+    "category": "Glass"
+  },
+  {
+    "code": "73",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Dark Sort Glass",
+    "examples": "",
+    "category": "Glass"
+  },
+  {
+    "code": "74",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Light Sort Glass",
+    "examples": "",
+    "category": "Glass"
+  },
+  {
+    "code": "75",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Light Leaded Glass",
+    "examples": "Televisions, high-end electronics display glass like in calculators",
+    "category": "Glass"
+  },
+  {
+    "code": "76",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Leaded Glass",
+    "examples": "Older televisions, ash trays, older beverage holders",
+    "category": "Glass"
+  },
+  {
+    "code": "77",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Copper Mixed/Copper Backed Glass",
+    "examples": "Electronics, LCD display heads, clocks, watches",
+    "category": "Glass"
+  },
+  {
+    "code": "78",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Silver Mixed/Silver Backed Glass",
+    "examples": "Mirrors, formal table settings",
+    "category": "Glass"
+  },
+  {
+    "code": "79",
+    "short": "GL",
+    "alternatives": [],
+    "description": "Gold Mixed/Gold Backed Glass",
+    "examples": "Computer glass, formal table settings",
+    "category": "Glass"
+  },
+  {
+    "code": "81",
+    "short": "PapPet",
+    "alternatives": [],
+    "description": "Paper + plastic",
+    "examples": "Consumer packaging, pet food bags, cold store grocery bags, Icecream containers, cardboard cans, disposable plates",
+    "category": "Composites"
+  },
+  {
+    "code": "82",
+    "short": "",
+    "alternatives": [],
+    "description": "Paper and fibreboard/Aluminium",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "83",
+    "short": "",
+    "alternatives": [],
+    "description": "Paper and fibreboard/Tinplate",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "84",
+    "short": "C/PAP",
+    "alternatives": ["PapAl"],
+    "description": "Paper and cardboard/plastic/aluminium",
+    "examples": "Liquid storage containers, juice boxes, cardboard cans, cigarette pack liners, gum wrappers, cartridge shells for blanks, fireworks colouring material, Tetra Brik.",
+    "category": "Composites"
+  },
+  {
+    "code": "85",
+    "short": "",
+    "alternatives": [],
+    "description": "Paper and fibreboard/Plastic/Aluminium/Tinplate",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "87",
+    "short": "CSL",
+    "alternatives": ["Card-Stock Laminate"],
+    "description": "Biodegradable plastic",
+    "examples": "Laminating material, special occasion cards, bookmarks, business cards, flyers/advertising",
+    "category": "Composites"
+  },
+  {
+    "code": "90",
+    "short": "C/LDPE",
+    "alternatives": [],
+    "description": "Plastics/Aluminium",
+    "examples": "Plastic toothpaste tubes/some vacuum packed coffee bags",
+    "category": "Composites"
+  },
+  {
+    "code": "91",
+    "short": "C/LDPE",
+    "alternatives": [],
+    "description": "Plastic/Tinplate",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "92",
+    "short": "",
+    "alternatives": [],
+    "description": "Plastic/Miscellaneous metals",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "95",
+    "short": "",
+    "alternatives": [],
+    "description": "Glass/Plastic",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "96",
+    "short": "",
+    "alternatives": [],
+    "description": "Glass/Aluminium",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "97",
+    "short": "",
+    "alternatives": [],
+    "description": "Glass/Tinplate",
+    "examples": "",
+    "category": "Composites"
+  },
+  {
+    "code": "98",
+    "short": "",
+    "alternatives": [],
+    "description": "Glass/Miscellaneous metals",
+    "examples": "",
+    "category": "Composites"
+  }
+]
