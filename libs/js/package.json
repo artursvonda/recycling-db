@@ -1,6 +1,6 @@
 {
   "name": "recycling-db",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Database for recycling information (icons, descriptions, examples etc)",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -29,6 +29,7 @@
   "scripts": {
     "build": "rollup -c",
     "lint": "prettier --write ./src/**/*.ts *.js",
-    "prepublish": "yarn build"
+    "copy-resources": "cp -R ../../svgs ./",
+    "prepublish": "yarn copy-resources && yarn build"
   }
 }
